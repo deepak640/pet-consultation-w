@@ -1,0 +1,192 @@
+[
+  {
+    "name": {
+      "first_name": "Emily",
+      "middle_name": "Grace",
+      "last_name": "Davis"
+    },
+    "degree": "PhD",
+    "expertise": "Psychiatry",
+    "experience": "15 years",
+    "address": "321 Maple Lane",
+    "contact": {
+      "$numberLong": "5675675678"
+    },
+    "star": 4.7,
+    "email": "emily@example.com",
+    "password": "secure_password_2",
+    "license": "Psychiatry License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893ea"
+    },
+    "prefix": "Mr",
+    "name": {
+      "first_name": "Daniel",
+      "middle_name": "Alexander",
+      "last_name": "Brown"
+    },
+    "degree": "Abhay yadav",
+    "expertise": "Ophthalmology",
+    "experience": "9 years",
+    "address": "987 Pine Street",
+    "contact": {
+      "$numberLong": "9879879876"
+    },
+    "star": 4.6,
+    "email": "daniel@example.com",
+    "password": "secure_password_3",
+    "license": "Ophthalmology License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893ec"
+    },
+    "prefix": "Mrs",
+    "name": {
+      "first_name": "Sophia",
+      "middle_name": "Elizabeth",
+      "last_name": "Miller"
+    },
+    "degree": "MD",
+    "expertise": "Pediatrics",
+    "experience": "11 years",
+    "address": "654 Cedar Avenue",
+    "contact": {
+      "$numberLong": "4564564567"
+    },
+    "star": 4.9,
+    "email": "sophia@example.com",
+    "password": "secure_password_4",
+    "license": "Pediatrics License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893ee"
+    },
+    "prefix": "Mr",
+    "name": {
+      "first_name": "Matthew",
+      "middle_name": "David",
+      "last_name": "Wilson"
+    },
+    "degree": "DDS",
+    "expertise": "Dentistry",
+    "experience": "7 years",
+    "address": "147 Oak Street",
+    "contact": {
+      "$numberLong": "9876543210"
+    },
+    "star": 4.4,
+    "email": "matthew@example.com",
+    "password": "secure_password_5",
+    "license": "Dentistry License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893f0"
+    },
+    "prefix": "Mrs",
+    "name": {
+      "first_name": "Olivia",
+      "middle_name": "Charlotte",
+      "last_name": "Taylor"
+    },
+    "degree": "MD",
+    "expertise": "Dermatology",
+    "experience": "10 years",
+    "address": "753 Birch Avenue",
+    "contact": 1234567890,
+    "star": 4.5,
+    "email": "olivia@example.com",
+    "password": "secure_password_6",
+    "license": "Dermatology License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893f2"
+    },
+    "prefix": "Mr",
+    "name": {
+      "first_name": "Ethan",
+      "middle_name": "Joseph",
+      "last_name": "Anderson"
+    },
+    "degree": "DO",
+    "expertise": "Cardiology",
+    "experience": "13 years",
+    "address": "369 Pine Lane",
+    "contact": {
+      "$numberLong": "6543219870"
+    },
+    "star": 4.7,
+    "email": "ethan@example.com",
+    "password": "secure_password_7",
+    "license": "Cardiology License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893f4"
+    },
+    "prefix": "Mrs",
+    "name": {
+      "first_name": "Ava",
+      "middle_name": "Mia",
+      "last_name": "Moore"
+    },
+    "degree": "DDS",
+    "expertise": "Orthodontics",
+    "experience": "8 years",
+    "address": "852 Cedar Street",
+    "contact": {
+      "$numberLong": "7894561230"
+    },
+    "star": 4.6,
+    "email": "ava@example.com",
+    "password": "secure_password_8",
+    "license": "Orthodontics License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893f6"
+    },
+    "prefix": "Mr",
+    "name": {
+      "first_name": "Liam",
+      "middle_name": "Benjamin",
+      "last_name": "Jackson"
+    },
+    "degree": "MD",
+    "expertise": "Neurology",
+    "experience": "14 years",
+    "address": "456 Maple Avenue",
+    "contact": 1472583690,
+    "star": 4.9,
+    "email": "liam@example.com",
+    "password": "secure_password_9",
+    "license": "Neurology License"
+  },
+  {
+    "_id": {
+      "$oid": "65f03011b3427c73af1893f8"
+    },
+    "prefix": "Mrs",
+    "name": {
+      "first_name": "Mia",
+      "middle_name": "Harper",
+      "last_name": "White"
+    },
+    "degree": "PhD",
+    "expertise": "Oncology",
+    "experience": "12 years",
+    "address": "753 Oak Lane",
+    "contact": {
+      "$numberLong": "3698521470"
+    },
+    "star": 4.8,
+    "email": "mia@example.com",
+    "password": "secure_password_10",
+    "license": "Oncology License"
+  }
+]

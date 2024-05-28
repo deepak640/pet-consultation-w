@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Chhota dom",
+    "address": {
+      "line1": "456 Oak Street",
+      "state": "New York",
+      "pincode": 54321,
+      "country": "Bangladesh"
+    },
+    "contact_Number": {
+      "$numberLong": "9876543210"
+    },
+    "email": "Abhay14122001@gmail.com",
+    "password": "alicepassword",
+    "pet_type": "Cat",
+    "breed": "Persian",
+    "pet_name": "Fluffy",
+    "age": 2,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Bob Johnson",
+    "address": {
+      "line1": "789 Pine Avenue",
+      "state": "Texas",
+      "pincode": 98765,
+      "country": "Nepal"
+    },
+    "contact_Number": {
+      "$numberLong": "5551234567"
+    },
+    "email": "bob@example.com",
+    "password": "bobpassword",
+    "pet_type": "Dog",
+    "breed": "German Shepherd",
+    "pet_name": "Max",
+    "age": 4,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Charlie Brown",
+    "address": {
+      "line1": "101 Elm Street",
+      "state": "California",
+      "pincode": 12345,
+      "country": "India"
+    },
+    "contact_Number": 1239876543,
+    "email": "charlie@example.com",
+    "password": "charliepassword",
+    "pet_type": "Dog",
+    "breed": "Golden Retriever",
+    "pet_name": "Bailey",
+    "age": 1,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Eva Martinez",
+    "address": {
+      "line1": "333 Cedar Street",
+      "state": "Washington",
+      "pincode": 67890,
+      "country": "India"
+    },
+    "contact_Number": 1112223333,
+    "email": "eva@example.com",
+    "password": "evapassword",
+    "pet_type": "Cattle",
+    "breed": "Angus",
+    "pet_name": "Daisy",
+    "age": 5,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Sophie Johnson",
+    "address": {
+      "line1": "456 Pine Street",
+      "state": "Texas",
+      "pincode": 54321,
+      "country": "Bangladesh"
+    },
+    "contact_Number": {
+      "$numberLong": "9876543210"
+    },
+    "email": "sophie@example.com",
+    "password": "sophiepassword",
+    "pet_type": "Dog",
+    "breed": "Labrador Retriever",
+    "pet_name": "Rocky",
+    "age": 2,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Oliver Garcia",
+    "address": {
+      "line1": "789 Elm Avenue",
+      "state": "California",
+      "pincode": 12345,
+      "country": "India"
+    },
+    "contact_Number": {
+      "$numberLong": "5551234567"
+    },
+    "email": "oliver@example.com",
+    "password": "oliverpassword",
+    "pet_type": "Cat",
+    "breed": "Siamese",
+    "pet_name": "Whiskers",
+    "age": 4,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Emma Brown",
+    "address": {
+      "line1": "101 Oak Street",
+      "state": "New York",
+      "pincode": 54321,
+      "country": "Nepal"
+    },
+    "contact_Number": 1239876543,
+    "email": "emma@example.com",
+    "password": "emmapassword",
+    "pet_type": "Dog",
+    "breed": "Golden Retriever",
+    "pet_name": "Bailey",
+    "age": 1,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "John Doe",
+    "address": {
+      "line1": "123 Main Street",
+      "line2": "Apt 101",
+      "state": "California",
+      "pincode": 12345,
+      "country": "India"
+    },
+    "contact_Number": 1234567890,
+    "email": "john@example.com",
+    "password": "johnpassword",
+    "pet_type": "Dog",
+    "breed": "Labrador Retriever",
+    "pet_name": "Buddy",
+    "age": 3,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Jane Smith",
+    "address": {
+      "line1": "456 Elm Street",
+      "state": "New York",
+      "pincode": 54321,
+      "country": "Bangladesh"
+    },
+    "contact_Number": {
+      "$numberLong": "9876543210"
+    },
+    "email": "jane@example.com",
+    "password": "janepassword",
+    "pet_type": "Cat",
+    "breed": "Siamese",
+    "pet_name": "Whiskers",
+    "age": 4,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Emma Brown",
+    "address": {
+      "line1": "789 Oak Avenue",
+      "state": "Texas",
+      "pincode": 98765,
+      "country": "Nepal"
+    },
+    "contact_Number": {
+      "$numberLong": "5551234567"
+    },
+    "email": "emma@exampqsssle.com",
+    "password": "emmapassword",
+    "pet_type": "Dog",
+    "breed": "Golden Retriever",
+    "pet_name": "Bailey",
+    "age": 1,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "Michael Johnson",
+    "address": {
+      "line1": "101 Pine Street",
+      "state": "Florida",
+      "pincode": 54321,
+      "country": "Sri-Lanka"
+    },
+    "contact_Number": 1239876543,
+    "email": "michael@example.com",
+    "password": "michaelpassword",
+    "pet_type": "Cat",
+    "breed": "Maine Coon",
+    "pet_name": "Leo",
+    "age": 2,
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "abhay yadav",
+    "address": {
+      "country": "India"
+    },
+    "email": "abhay14122001@gmail.com",
+    "password": "gvvvvvvvvvv",
+    "pet_type": "Dog",
+    "past_disease": "none",
+    "__v": 0
+  },
+  {
+    "name": "abhay14",
+    "address": {
+      "country": "India"
+    },
+    "email": "abhaygaming14122001@gmail.com",
+    "password": "zxcccccc",
+    "pet_type": "Dog",
+    "past_disease": "none",
+    "__v": 0
+  }
+]

@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cce"
+  },
+  "name": "NGO 2",
+  "owner": "NaN",
+  "contact": {
+    "$numberLong": "2345678901"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "state": "State 2",
+    "pincode": 23456,
+    "country": "Nepal"
+  },
+  "email": "ngo2@example.com",
+  "password": "password2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cd0"
+  },
+  "name": "NGO 3",
+  "owner": "Owner 3",
+  "contact": {
+    "$numberLong": "3456789012"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "line2": "Address Line 2",
+    "state": "State 3",
+    "pincode": 34567,
+    "country": "Bangladesh"
+  },
+  "email": "ngo3@example.com",
+  "password": "password3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cd2"
+  },
+  "name": "NGO 4",
+  "owner": "NaN",
+  "contact": {
+    "$numberLong": "4567890123"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "state": "State 4",
+    "pincode": 45678,
+    "country": "Sri-Lanks"
+  },
+  "email": "ngo4@example.com",
+  "password": "password4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cd4"
+  },
+  "name": "NGO 5",
+  "owner": "Owner 5",
+  "contact": {
+    "$numberLong": "5678901234"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "line2": "Address Line 2",
+    "state": "State 5",
+    "pincode": 56789,
+    "country": "India"
+  },
+  "email": "ngo5@example.com",
+  "password": "password5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cd6"
+  },
+  "name": "NGO 6",
+  "owner": "NaN",
+  "contact": {
+    "$numberLong": "6789012345"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "state": "State 6",
+    "pincode": 67890,
+    "country": "Nepal"
+  },
+  "email": "ngo6@example.com",
+  "password": "password6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cd8"
+  },
+  "name": "NGO 7",
+  "owner": "Owner 7",
+  "contact": {
+    "$numberLong": "7890123456"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "line2": "Address Line 2",
+    "state": "State 7",
+    "pincode": 78901,
+    "country": "Bangladesh"
+  },
+  "email": "ngo7@example.com",
+  "password": "password7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cda"
+  },
+  "name": "NGO 8",
+  "owner": "NaN",
+  "contact": {
+    "$numberLong": "8901234567"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "state": "State 8",
+    "pincode": 89012,
+    "country": "Sri-Lanks"
+  },
+  "email": "ngo8@example.com",
+  "password": "password8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cdc"
+  },
+  "name": "NGO 9",
+  "owner": "Owner 9",
+  "contact": {
+    "$numberLong": "9012345678"
+  },
+  "address": {
+    "line1": "Address Line 1",
+    "line2": "Address Line 2",
+    "state": "State 9",
+    "pincode": 90123,
+    "country": "India"
+  },
+  "email": "ngo9@example.com",
+  "password": "password9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f05f94c18bf453d96a8cde"
+  },
+  "name": "NGO 10",
+  "owner": "NaN",
+  "contact": 1234567809,
+  "address": {
+    "line1": "Address Line 1",
+    "state": "State 10",
+    "pincode": 12340,
+    "country": "Nepal"
+  },
+  "email": "ngo10@example.com",
+  "password": "password10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f066af172f333e713b72ed"
+  },
+  "name": "NGO Two",
+  "owner": "NaN",
+  "contact": {
+    "$numberLong": "2345678901"
+  },
+  "address": {
+    "line1": "456 Elm Street",
+    "state": "New York",
+    "pincode": 23456,
+    "country": "Bangladesh"
+  },
+  "email": "ngotwo@example.com",
+  "password": "password2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f0670fe3d1048c0f8245f8"
+  },
+  "name": "NGO Two",
+  "owner": "NaN",
+  "contact": {
+    "$numberLong": "2345678901"
+  },
+  "address": {
+    "line1": "456 Elm Street",
+    "state": "New York",
+    "pincode": 23456,
+    "country": "Bangladesh"
+  },
+  "email": "ngotwo@examhffhple.com",
+  "password": "password2",
+  "__v": 0
+}]

@@ -1,0 +1,325 @@
+{
+      "intents": [
+            {
+                  "tag": "Greeting",
+                  "patterns": [
+                        "Hi",
+                        "Hi there",
+                        "Hola",
+                        "Hello",
+                        "Hello there",
+                        "Hya",
+                        "Hya there"
+                  ],
+                  "responses": [
+                        "Hi sir/mam, How may I help you?",
+                        "Hello there sir/mam, How may I help you?"]
+                 },
+           
+            {
+                  "tag": "CourtesyGreeting",
+                  "patterns": [
+                        "How are you?",
+                        "Hi how are you?",
+                        "Hello how are you?",
+                        "Hola how are you?",
+                        "How are you doing?",
+                        "Hope you are doing well?",
+                        "Hello hope you are doing well?"
+                  ],
+                  "responses": [
+                        "Hello, I am great, how are you? Please tell me How can I help you?",
+                        "Hello, how are you? I am great thanks! How may I help you?",
+                        "Hello, I am good thank you, how are you? How may I help you?",
+                        "Hi, I am great, how are you? How may I help you?",
+                        "Hi, how are you? I am great thanks! How may I help you?",
+                        "Hi, I am good thank you, how are you? How may I help you?",
+                        "Hi, good thank you, how are you? How may I help you?"
+                  ]
+                  },
+                  
+            {
+                  "tag": "CourtesyGreetingResponse",
+                  "patterns": [
+                        "Good thanks! My name is",
+                        "Good thanks! This is",
+                        "Good thanks! I am",
+                        "Good thanks! It is",
+                        "Great thanks! My name is",
+                        "Great thanks! This is ",
+                        "Great thanks! I am",
+                        "Great thanks! It is"
+                  ],
+                  "responses": [
+                        "Great! Hi! How can I help?",
+                        "Good! Hi, how can I help you?",
+                        "Cool! Hello, what can I do for you?",
+                        "OK! Hola, how can I help you?",
+                        "OK! hi, what can I do for you?"
+                  ]
+                  },
+                 
+            {
+                  "tag": "NameQuery",
+                  "patterns": [
+                        "What is your name?",
+                        "What could I call you?",
+                        "What can I call you?",
+                        "What do your friends call you?",
+                        "Who are you?",
+                        "Tell me your name?"
+                  ],
+                  "responses": [
+                        "You can call me Dev",
+                        "You may call me Dev",
+                        "Call me Dev"
+                  ]
+            },
+            {
+                  "tag": "NotTalking2U",
+                  "patterns": [
+                        "I am not talking to you",
+                        "I was not talking to you",
+                        "Not talking to you",
+                        "Wasn't for you",
+                        "Wasn't meant for you",
+                        "Wasn't communicating to you",
+                        "Wasn't speaking to you"
+                  ],
+                  "responses": [
+                        "OK",
+                        "No problem",
+                        "Right"
+                  ]
+                  
+            },
+            {
+                  "tag": "UnderstandQuery",
+                  "patterns": [
+                        "Do you understand what I am saying",
+                        "Do you understand me",
+                        "Do you know what I am saying",
+                        "Do you get me",
+                        "Comprendo",
+                        "Know what I mean"
+                  ],
+                  "responses": [
+                        "Well I would not be a very clever AI if I did not would I?",
+                        "I read you loud and clear!",
+                        "I do in deed!"
+                  ]
+            },
+            {
+                  "tag": "Shutup",
+                  "patterns": [
+                        "Be quiet",
+                        "Shut up",
+                        "Stop talking",
+                        "Enough talking",
+                        "Please be quiet",
+                        "Quiet",
+                        "Shhh"
+                  ],
+                  "responses": [
+                        "I am sorry to disturb you",
+                        "Fine, sorry to disturb you",
+                        "OK, sorry to disturb you"
+                  ]
+                  
+            },
+            {
+                  "tag": "GoodBye",
+                  "patterns": [
+                        "Bye",
+                        "Adios",
+                        "See you later",
+                        "Goodbye"
+                  ],
+                  "responses": [
+                        "See you later",
+                        "Have a nice day",
+                        "Bye! Come back again soon."
+                  ]
+                 
+            },
+            {
+                  "tag": "CourtesyGoodBye",
+                  "patterns": [
+                        "Thanks, bye",
+                        "Thanks for the help, goodbye",
+                        "Thank you, bye",
+                        "Thank you, goodbye",
+                        "Thanks goodbye",
+                        "Thanks good bye"
+                  ],
+                  "responses": [
+                        "No problem, goodbye",
+                        "Not a problem! Have a nice day",
+                        "Bye! Come back again soon."
+                  ]
+                 
+            },
+            { 
+                  "tag": "Clever",
+                  "patterns": [
+                        "You are very clever",
+                        "You are very intelligent",
+                        "You are a genious",
+                        "Clever",
+                        "Genious"
+                  ],
+                  "responses": [
+                        "Thank you, I was trained that way",
+                        "I was trained well",
+                        "Thanks, I was trained that way"
+                  ]
+            },
+          { 
+              "tag": "AboutOrganization",
+              "patterns":[
+                    "Tell me more about this organization",
+                    "What is this organization?",
+                    "explain me about the organization",
+                    "What does this organization do?",
+                    "What is the objective of this organization?"
+               ],
+            "responses":[
+                "Our objective is to provide a complete website for animal veterinary consultations that will not only make it easier to   schedule pet vaccinations but also connect local organizations who support street animal care with scheduling opportunities. Our goal with this platform is to give pet owners easy access to veterinarian care while simultaneously encouraging community involvement and support for the care of stray animals.",
+                "Our goal is to provide a one stop solution for animal veterinary consultations that will not only make it easier to schedule pet vaccinations but also connect local organizations who support street animal care with scheduling opportunities. Our goal with this platform is to give pet owners easy access to veterinarian care while simultaneously encouraging community involvement and support for the care of stray animals."
+                ]
+     },
+    {
+      "tag": "UserRegistration",
+      "patterns": [
+        "Register on My Pet Website",
+        "Sign up for an account",
+        "Create a new account",
+        "Join My Pet Website"
+      ],
+      "responses": [
+        "Sure! Let's get you registered. Please navigate to the sign-up page.",
+        "To register, go to the sign-up page and fill in your details.",
+        "Joining My Pet Website is easy! Just fill out the registration form on our sign-up page.",
+        "You're just a few steps away from creating your account. Head over to the sign-up page now."
+      ]
+    },
+    {
+      "tag": "UserLogin",
+      "patterns": [
+        "Log in to My Pet Website",
+        "Sign in to my account",
+        "Access my account",
+        "Login with username and password"
+      ],
+      "responses": [
+        "Welcome back! Please log in with your username and password.",
+        "To access your account, simply log in with your credentials.",
+        "Sign in to your account using your username and password.",
+        "Login to My Pet Website to access your account."
+      ]
+    },
+    {
+      "tag": "ChatbotInteraction",
+      "patterns": [
+        "Start chat with chatbot",
+        "Interact with chatbot",
+        "Ask the chatbot a question",
+        "Engage with the chatbot"
+      ],
+      "responses": [
+        "Let's chat! Feel free to ask any questions you have.",
+        "I'm here to help! Ask me anything.",
+        "Ask away! I'm ready to assist you.",
+        "Engage with me by typing your questions in the chatbox."
+      ]
+    },
+    {
+      "tag": "VetConsultationFee",
+      "patterns": [
+        "Pay for vet consultation",
+        "Consultation fee payment",
+        "How to pay for vet consultation"
+      ],
+      "responses": [
+        "You can pay for the vet consultation in the 'Consultation Fees' section.",
+        "To pay for the consultation, navigate to the 'Consultation Fees' section.",
+        "Ready to pay for the consultation? Head over to the 'Consultation Fees' section now.",
+        "Paying for the consultation is easy! Just visit the 'Consultation Fees' section."
+      ]
+    },
+    {
+      "tag": "VetConsultation",
+      "patterns": [
+        "Consult a vet",
+        "Talk to a veterinarian",
+        "Start a vet consultation",
+        "Discuss pet's health with a vet"
+      ],
+      "responses": [
+        "Great! Wait for a vet to accept your consultation request, then you can start chatting.",
+        "Once a vet accepts your request, you can start the consultation.",
+        "Consulting with a vet is just a click away. Get started now!",
+        "Ready to discuss your pet's health with a vet? Let's start the consultation!"
+      ]
+    },
+    {
+      "tag": "DoctorRegistration",
+      "patterns": [
+        "Register as a vet on My Pet Site",
+        "Join as a veterinarian",
+        "Create a vet account",
+        "Sign up as a doctor"
+      ],
+      "responses": [
+        "To register as a vet, fill out the registration form on the 'Doctor Registration' page.",
+        "Join our team of veterinarians by registering on our site.",
+        "Creating a vet account is simple! Just complete the registration form.",
+        "Ready to sign up as a doctor? Head over to the 'Doctor Registration' page."
+      ]
+    },
+    {
+      "tag": "DoctorVerification",
+      "patterns": [
+        "Verify my doctor account",
+        "Complete vet verification",
+        "Confirm veterinarian registration",
+        "Doctor account validation"
+      ],
+      "responses": [
+        "Check your email for the verification link to complete the process.",
+        "Once you receive the verification email, click on the link to verify your account.",
+        "Your doctor account will be verified once you complete the verification process.",
+        "Follow the instructions in the verification email to validate your doctor account."
+      ]
+    },
+    {
+      "tag": "NGOListAccess",
+      "patterns": [
+        "Access nearby NGOs",
+        "Find NGOs for stray animals",
+        "View list of animal welfare NGOs"
+      ],
+      "responses": [
+        "You can find the list of nearby NGOs in the 'NGO List' section.",
+        "To access NGOs dedicated to stray animals, navigate to the 'NGO List' section.",
+        "Browse through the 'NGO List' section to find animal welfare NGOs in your area.",
+        "Viewing nearby NGOs is easy! Just go to the 'NGO List' section."
+      ]
+    },
+    {
+      "tag": "PetAccessoriesShopping",
+      "patterns": [
+        "Buy pet accessories",
+        "Purchase pet supplies",
+        "Order pet grooming tools",
+        "Shop for pet toys"
+      ],
+      "responses": [
+        "Browse through our 'Shop' section to find a variety of pet accessories.",
+        "Ready to shop for pet supplies? Visit our 'Shop' section now.",
+        "Find everything your pet needs in our 'Shop' section.",
+        "Shopping for pet accessories has never been easier! Start browsing now."
+      ]
+    }
+] 
+}
